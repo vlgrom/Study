@@ -7,4 +7,3 @@ public class Predator extends AbstractAnimal {
         super("Predator", name, cost, character, birthDate);
     }
 }
-
